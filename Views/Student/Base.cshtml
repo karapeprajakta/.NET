@@ -1,0 +1,18 @@
+@using BOL;
+
+
+@{
+    ViewData["Title"] = "base Page";
+}
+
+<div>
+    <h2>Product Catalog</h2>
+    @{
+        List<Student> Get= (List<Student>)ViewData["Student"];
+        <ol>
+            @foreach( Student a in Get){
+                <li>  @a.Id &nbsp; @a.Namefirst &nbsp; @a.Namelast &nbsp; @a.Dob &nbsp; @a.Emailid</li>
+            }    
+        </ol>    
+    }
+</div>

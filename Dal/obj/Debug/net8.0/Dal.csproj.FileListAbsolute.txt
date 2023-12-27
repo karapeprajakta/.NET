@@ -1,0 +1,15 @@
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\IET\Documents\DotNet\Database\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\IET\Documents\DotNet\Database\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\IET\Documents\DotNet\Database\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\IET\Documents\DotNet\Database\Dal\bin\Debug\net8.0\BOL.dll
+C:\Users\IET\Documents\DotNet\Database\Dal\bin\Debug\net8.0\BOL.pdb
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.csproj.CopyComplete
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\IET\Documents\DotNet\Database\Dal\obj\Debug\net8.0\ref\Dal.dll
